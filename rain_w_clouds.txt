@@ -1,25 +1,13 @@
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                          .;llllll:.
-                 .ckKKKKOlooooooooooo,            
-                ;XWWWWWWWXxooooooooooo,           
-                kWWWWWWWWWNkOOkdoooooo:           
-            ,kNWWWWWWWWWWWWWWWWXdooooo:           
-           lWWWWWWWWWWWWWWWWWWWW00kdoo,           
-           kWWWWWWWWWWWWWWWWWWWWWWWXO.
-           oWWWWWWWWWWWWWWWWWWWWWWWWX.            
-            cKNWWWNllWWWWWWWWWWWWWNO
-              ...,,//;::,.:/;/.....
-                 ///.///. ...
-                 ...///.///.
-                    ... ...                       
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
+               .;llllll:.
+      .ckKKKKOlooooooooooo,
+     ;XWWWWWWWXxooooooooooo,
+     kWWWWWWWWWNkOOkdoooooo:
+ ,kNWWWWWWWWWWWWWWWWXdooooo:
+lWWWWWWWWWWWWWWWWWWWW00kdoo,
+kWWWWWWWWWWWWWWWWWWWWWWWXO.
+oWWWWWWWWWWWWWWWWWWWWWWWWX.
+ cKNWWWNllWWWWWWWWWWWWWNO
+   ...,,//;::,.:/;/.....
+      ///.///. ...
+      ...///.///.
+         ... ...
