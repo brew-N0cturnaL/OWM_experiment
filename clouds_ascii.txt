@@ -1,25 +1,11 @@
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                    ......                        
-                 .xNWWWWWNKd.                     
-                xNWWWWWWWWWWX:                    
-               .WWWWWWWWWWWWWXXWXOl.
-           .:okKWWWWWWWWWWWWWWWWWWWK.             
-          oNWWWWWWWWWWWWWWWWWWWWWWWWko,           
-         |WWWWWWWWWWWWWWWWWWWWWWWWWWWWWX:
-         |WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWk
-         .XWWWWWWWWWWWWWWWWWWWWWWWWWWWWWk         
-          .0WWWWWWWWWWWWWWWWWWWWWWWWWWW0,         
-            .,,,,,,,,,,,,,,,,,,,,,,,,,.
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
+           ......
+        .xNWWWWWNKd.
+       xNWWWWWWWWWWX:
+      .WWWWWWWWWWWWWXXWXOl.
+  .:okKWWWWWWWWWWWWWWWWWWWK.
+ oNWWWWWWWWWWWWWWWWWWWWWWWWko,
+|WWWWWWWWWWWWWWWWWWWWWWWWWWWWWX:
+|WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWk
+.XWWWWWWWWWWWWWWWWWWWWWWWWWWWWWk
+ .0WWWWWWWWWWWWWWWWWWWWWWWWWWW0,
+   .,,,,,,,,,,,,,,,,,,,,,,,,,.
