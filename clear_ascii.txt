@@ -1,25 +1,13 @@
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                   ..,;;;;;;;;.
-                .;loooooooooooooc.
-              .cooooooooooooooooooo:              
-             .ooooooooooooooooooooooc.
-            .ooooooooooooooooooooooool            
-            :ooooooooooooooooooooooooo.           
-            :ooooooooooooooooooooooooo.           
-            :ooooooooooooooooooooooooo.           
-            :ooooooooooooooooooooooool.
-             ;ooooooooooooooooooooool.            
-              loooooooooooooooooooc.
-                ,looooooooooooooo:.               
-                   .;cccccccc:,.                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
-                                                  
+       ..,;;;;;;;;.
+    .;loooooooooooooc.
+  .cooooooooooooooooooo:
+ .ooooooooooooooooooooooc.
+.ooooooooooooooooooooooool
+:ooooooooooooooooooooooooo.
+:ooooooooooooooooooooooooo.
+:ooooooooooooooooooooooooo.
+:ooooooooooooooooooooooool.
+ ;ooooooooooooooooooooool.
+  loooooooooooooooooooc.
+    ,looooooooooooooo:.
+       .;cccccccc:,.
