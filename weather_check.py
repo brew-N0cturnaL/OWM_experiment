@@ -9,22 +9,18 @@ def read_ascii(file_path):
 
 def display_weather(weather_info, ascii_art):
     ascii_lines = ascii_art.split("\n")
-    info_lines = [f"Temperature: {weather_info['main']['temp']} ˚C\n"
-          f"Pressure: {weather_info['main']['pressure']} hPa\n"
-          f"Humidity: {weather_info['main']['humidity']} %\n"
-          f"Wind: {weather_info['wind']['speed']} m/s {weather_info['wind']['deg']}˚\n"
-          f'Description: {weather_info["weather"][0]["description"]}'
+    info_lines = [f"Temperature: {weather_info['main']['temp']} ˚C\n",
+          f"Pressure: {weather_info['main']['pressure']} hPa\n",
+          f"Humidity: {weather_info['main']['humidity']} %\n",
+          f"Wind: {weather_info['wind']['speed']} m/s {weather_info['wind']['deg']}˚\n",
+          f'Description: {weather_info["weather"][0]["description"]}\n'
     ]
 
-    while len(ascii_lines) < len(info_lines):
-        ascii_lines.append("")
-
     max_length = max(len(line) for line in ascii_lines)
-    max_lines = max(len(ascii_lines), len(info_lines))
-    for i in range(max_lines):
-        ascii_line = ascii_lines[i] if i < len(ascii_lines) else ""
-        info_line = info_lines[i] if i < len(info_lines) else ""
-        print(f"{ascii_line:<{max_length + 5}}  {info_line}")
+    for i in range(len(ascii_lines)):
+        ascii_line = ascii_lines[i] if i < len(ascii_lines) else "\n"
+        info_line = info_lines[i] if i < len(info_lines) else "\n"
+        print(f"{ascii_line:<{max_length}}  {info_line}", end = "")
 
 def weather(weather_info):
     weather_patterns = {
