@@ -1,7 +1,9 @@
 import requests, re
 
+from flag_parsing import parse
+
 api_key = "099ed258adaefea61bc5772b732766cd"
-base_url = "https://api.openweathermap.org/data/2.5/weather?id=524901&"
+base_url = "https://api.openweathermap.org/data/2.5/weather"
 
 def read_ascii(file_path):
     with open(file_path, "r", encoding ="utf-8") as file:
@@ -36,25 +38,8 @@ def weather(weather_info):
     desc = weather_info["weather"][0]["description"].lower()
     for pattern, ascii_file in weather_patterns.items():
         if re.search(pattern, desc):
+            ascii_file = "assets/" + ascii_file
             ascii_art = read_ascii(ascii_file)
             return display_weather(weather_info, ascii_art)
     ascii_art = read_ascii("default_ascii.txt")
     return display_weather(weather_info, ascii_art)
-
-
-def main():
-    city = input("Enter city: ")
-    params ={
-        "q": city,
-        "appid": api_key,
-        "units": "metric"
-    }
-    response = requests.get(base_url, params = params)
-    if response.status_code == 200:
-        weather_info = response.json()
-        weather(weather_info)
-    else:
-        print(f"Error {response.status_code}")
-
-if __name__ == "__main__":
-    main()
